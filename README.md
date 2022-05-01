@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working at PESU VENTURE LABS (PVL)
+- 🌱 I’m currently learning Blockchain
+- 📫 How to reach me: aviroxi on instagram
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to read.
 <!--
 **aviroxi/aviroxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
