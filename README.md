@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working at PESU VENTURE LABS (PVL)
 - 🌱 I’m currently learning Blockchain
 - 📫 How to reach me: aviroxi on instagram
 - 😄 Pronouns: he/him
