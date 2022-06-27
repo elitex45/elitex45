@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Blockchain
-- 📫 How to reach me: aviroxi on instagram
+- 📫 How to reach me: aviroxi@zeru.finance
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to read.
 <!--
