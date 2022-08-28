@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Blockchain
-- 📫 How to reach me: 3litedev on instagram.
+- 📫 How to reach me: `elitex45#2930` on discord.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to read.
 <!--
