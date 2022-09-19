@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world! 👋
 - 🌱 I’m currently learning Blockchain
 - 📫 How to reach me: `elitex45#2930` on discord.
 - 😄 Pronouns: he/him
