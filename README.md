@@ -1,5 +1,5 @@
 ### Hello world! 👋
-- 🌱 I’m currently learning Blockchain
+- 💻 Front-end web developer and solidity developer.
 - 📫 How to reach me: `elitex45#2930` on discord.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to read.
