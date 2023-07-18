@@ -1,8 +1,9 @@
-### Hello world! 👋
-- 💻 Front-end web developer and solidity developer.
-- 📫 How to reach me: `elitex45#2930` on discord.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to read.
+## Hello world! 👋
+- 💻 Full Stack Web3 Developer.
+- 🌱 Currently building Zeru Finance
+- 📫 How to reach me: `elitex45#2930` on Discord or `@aviroxi` on Telegram.
+- ⚡ Fun fact: I like to read, draw.
+
 <!--
 **aviroxi/aviroxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
