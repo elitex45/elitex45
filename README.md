@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello world! 👋</h1>
 
 ###
 
-<p align="left">My name is elite and I'm a solidity developer.</p>
+<p align="left">My name is elite and I'm a Full Stack Solidity Developer.</p>
 
 ###
 
