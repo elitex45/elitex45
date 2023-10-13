@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is elite and I'm a Full Stack Solidity Developer.</p>
+<p align="left">My name is elite and I'm a Full Stack Web3 Developer.</p>
 
 ###
 
