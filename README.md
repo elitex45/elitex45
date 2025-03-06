@@ -13,9 +13,7 @@
   💻 Cofounder & CTO @ <strong>Zeru Finance</strong>.<br>
   🌱 Currently shaping <a href="https://myzscore.ai"><strong>myzscore.ai</strong></a>—the first decentralized credit score on EigenLayer.<br>
   🏆 <strong>ETHIndia Winner</strong> | <strong>EigenLayer AVS Dev</strong> | <strong>Web3 & AI Innovator</strong>.<br>
-  📜 Writing smart contracts, breaking limits, and making <strong>Solidity do the impossible</strong>.<br>
-  🔥 Passionate about <strong>autonomous finance, zk-tech, and scalable DeFi solutions</strong>.<br>
-  📫 Always up for a chat: <code>elitex45#2930</code> on Discord | <code>@elitex45</code> on Telegram.
+  📜 Writing smart contracts, breaking limits, and making <strong>Solidity do the impossible</strong>.
 </p>
 
 ---
