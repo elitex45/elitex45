@@ -1,49 +1,50 @@
-<h1 align="left">Hello world! 👋</h1>
+# Hi, I'm Guru 👋
+
+📍 **India** | 🔗 **Co-founder [@zerufinance](https://github.com/zerufinance)** | 🧠 **On-chain intelligence builder**
+
+[![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Rust](https://img.shields.io/badge/-Rust-0d1117?style=flat-square&logo=rust&logoColor=white)](https://rust-lang.org)
+[![Solidity](https://img.shields.io/badge/-Solidity-0d1117?style=flat-square&logo=solidity&logoColor=white)](https://soliditylang.org)
+[![ClickHouse](https://img.shields.io/badge/-ClickHouse-0d1117?style=flat-square&logo=clickhouse&logoColor=white)](https://clickhouse.com)
+[![GCP](https://img.shields.io/badge/-GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![Claude](https://img.shields.io/badge/-Claude-0d1117?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
+
+> "The only thing more terrifying than the cage is not trying to escape it."
+
+🔗 **[zeruai.org](https://zeruai.org)** – wallets don't lie. people do.
+
+## Current Projects
+
+- 🔐 **[zerufinance](https://github.com/zerufinance)** – zScore + Zaps. classifying wallet trustworthiness using on-chain history.
+- 🤖 **[agentscan.tech](https://agentscan.tech)** – explorer + indexer for AI agents on ERC-8004 identity registry.
+- ⚡ **[dualcode](https://github.com/elitex45/dualcode)** – sonnet plans. minimax executes. you ship 2.6x faster and spend 60% less credits.
+
+## What I'm Doing
+
+- **Building at the intersection of crypto and AI** — wallet reputation scoring, on-chain behavioral analysis, agent identity
+- **Shipping dualcode** — a minimal two-model system that lets anyone use Sonnet for planning and MiniMax for execution without an orchestration framework
+- **Writing about what I learn** — AI workflows, agent systems, DeFi infrastructure
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@elitex45-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/elitex45)
+[![Telegram](https://img.shields.io/badge/-@elitex45-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/elitex45)
+[![Website](https://img.shields.io/badge/-x45.in-FF5722?style=flat-square&logo=safari&logoColor=white)](https://x45.in)
+[![LinkedIn](https://img.shields.io/badge/-elitex25-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/elitex25)
 
 ---
 
-<p align="left">I'm <strong>elitex45</strong>, a creator, builder, and occasional bug producer. 🚀</p>
+### Philosophy
 
----
+> "the universe always delivers 🌌"
 
-<h2 align="left">About Me</h2>
+I build tools that solve real problems, use AI as leverage not a crutch, and ship before I'm ready. currently running Sonnet for thinking and MiniMax for everything else.
 
-<p>
-  🛠️ Building the future of <strong>DeFi & on-chain credit scoring</strong>.<br>
-  💻 Cofounder @ <strong>Zeru Finance</strong>.<br>
-  🌱 Currently shaping <a href="https://myzscore.ai"><strong>myzscore.ai</strong></a>—the first decentralized credit score on EigenLayer.<br>
-  🏆 <strong>ETHIndia Winner</strong> | <strong>EigenLayer AVS Dev</strong> | <strong>Web3 & AI Innovator</strong>.<br>
-  📜 Writing smart contracts, breaking limits, and making <strong>Solidity do the impossible</strong>.
-</p>
+Random facts:
+- 24, based in Bengaluru
+- game theory lens on everything
 
----
+## GitHub Activity
 
-<h2 align="left">Find Me Online</h2>
-
-<p>
-  📍 <strong>Where to find me:</strong><br>
-  🌍 Website → <a href="https://myzscore.ai">myzscore.ai</a> 🚀<br>
-  🐙 GitHub → <a href="https://github.com/elitex45">elitex45</a> 🛠️<br>
-  🐦 Twitter → <a href="https://twitter.com/elitex45">@elitex45</a> 🧠<br>
-  💬 Telegram → <a href="https://t.me/elitex45">@elitex45</a> ⚡
-</p>
-
----
-
-<h2 align="left">Tech Stack</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
----
-
-<h2 align="left">Random Fun Fact</h2>
-
-💡 Did you know? 90% of debugging is fixing a problem you created yourself. The other 10%? Blaming the compiler. 😎
+[![GitHub Contribution Graph](https://ghchart.rshah.org/00ff41/elitex45)](https://github.com/elitex45)
