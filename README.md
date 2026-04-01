@@ -24,7 +24,6 @@
 ## What I'm Doing
 
 - **Building at the intersection of crypto and AI** — wallet reputation scoring, on-chain behavioral analysis, agent identity
-- **Shipping dualcode** — a minimal two-model system that lets anyone use Sonnet for planning and MiniMax for execution without an orchestration framework
 - **Writing about what I learn** — AI workflows, agent systems, DeFi infrastructure
 
 ## Connect
