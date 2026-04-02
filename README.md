@@ -20,7 +20,7 @@
 - 🤖 **[agentscan.tech](https://agentscan.tech)** – explorer + indexer for AI agents on ERC-8004 identity registry.
 - ⚡ **[dualcode](https://github.com/elitex45/dualcode)** – sonnet plans. minimax executes. you ship 2.6x faster and spend 60% less credits.
 - 📀 **[pmcts](https://github.com/elitex45/pmcts)** – Polymarket crypto timeseries data collector for up or down markets.
-- 🗑️ **[nuke_mac_systemdata](https://github.com/elitex45/nuke_mac_systemdata)** – YES, I AM DONE WITH THIS MAC SYSTEM DATA TAKING ALL MY STORAGE.
+- 🗑️ **[nuke-mac-system-data](https://github.com/elitex45/nuke-mac-system-data)** – YES, I AM DONE WITH THIS MAC SYSTEM DATA TAKING ALL MY STORAGE.
 
 ## What I'm Doing
 
