@@ -21,6 +21,7 @@
 - ⚡ **[dualcode](https://github.com/elitex45/dualcode)** – sonnet plans. minimax executes. you ship 2.6x faster and spend 60% less credits.
 - 📀 **[pmcts](https://github.com/elitex45/pmcts)** – Polymarket crypto timeseries data collector for up or down markets.
 - 🗑️ **[nuke-mac-system-data](https://github.com/elitex45/nuke-mac-system-data)** – YES, I AM DONE WITH THIS MAC SYSTEM DATA TAKING ALL MY STORAGE.
+- 🧪 **[polybt](https://github.com/elitex45/polybt)** – Backtest Polymarket crypto up/down market strategies over data collected from Goldsky and Binance.
 
 ## What I'm Doing
 
