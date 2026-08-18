@@ -18,11 +18,8 @@
 
 - 🔐 **[zerufinance](https://github.com/zerufinance)** – zScore + Zaps. classifying wallet trustworthiness using on-chain history.
 - 🤖 **[agentscan.tech](https://agentscan.tech)** – explorer + indexer for AI agents on ERC-8004 identity registry.
-- ⚡ **[dualcode](https://github.com/elitex45/dualcode)** – sonnet plans. minimax executes. you ship 2.6x faster and spend 60% less credits.
-- 📀 **[pmcts](https://github.com/elitex45/pmcts)** – Polymarket crypto timeseries data collector for up or down markets.
 - 🗑️ **[nuke-mac-system-data](https://github.com/elitex45/nuke-mac-system-data)** – YES, I AM DONE WITH THIS MAC SYSTEM DATA TAKING ALL MY STORAGE.
-- 🧪 **[polybt](https://github.com/elitex45/polybt)** – Backtest Polymarket crypto up/down market strategies over data collected from Goldsky and Binance.
-- 🤖 **[ai-text-humanizer](https://github.com/elitex45/ai-text-humanizer)** – Subagent prompts for ai-text-humanizer
+- 😴 THERE ARE OTHERS, You can find them in repositories.
 
 ## What I'm Doing
 
